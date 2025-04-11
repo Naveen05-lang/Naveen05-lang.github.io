@@ -22,7 +22,7 @@ let resume2 = document.getElementById("resume-button-2").addEventListener("click
 
 function NewTab() {
     window.open(
-        "./Resume/DishaGupta-FullStackWebDeveloper-LHVM.pdf",
+        "./Resume/Naveen-MERN.pdf",
         "_blank"
     );
 }
